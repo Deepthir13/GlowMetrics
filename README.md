@@ -6,7 +6,9 @@
 **Creators:** 10 beauty/skincare creators  
 **Campaign Period:** Q1 2025 (Jan–Mar)  
 **Submitted by:** Deepth Ramesh
+
 **Summary PDF:** https://github.com/Deepthir13/GlowMetrics/blob/main/GlowMetric_Challenge_Summary.pdf
+
 **Metrics PDF:** https://github.com/Deepthir13/GlowMetrics/blob/main/03_framework/GlowMetric_Measurement_Framework.pdf
 
 ---
