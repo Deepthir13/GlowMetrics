@@ -1,0 +1,23 @@
+# Data files — too large and contain raw API output
+data/raw/
+data/clean/
+data/powerbi/
+
+# SQLite database
+*.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# macOS
+.DS_Store
+
+# Power BI temp files
+*.pbix.lock
+
+# VS Code / editors
+.vscode/
+.idea/
