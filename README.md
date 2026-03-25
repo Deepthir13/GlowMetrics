@@ -11,6 +11,10 @@
 
 **Metrics PDF:** https://github.com/Deepthir13/GlowMetrics/blob/main/03_framework/GlowMetric_Measurement_Framework.pdf
 
+
+**Executive readout:** https://github.com/Deepthir13/GlowMetrics/blob/main/GlowMetric_Executive_Readout.pdf
+
+
 ---
 
 ## What This Is
