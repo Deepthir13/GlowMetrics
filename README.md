@@ -111,16 +111,14 @@ hardscope/
 ├── 02_modeling/
 │   └── data_model.py               # Clean, normalize, join → unified analytics table
 ├── 03_framework/
-│   ├── measurement_framework.md    # Full measurement framework (funnel, benchmarks, gaps)
-│   └── GlowMetric_Measurement_Framework.docx
+│   └── GlowMetric_Measurement_Framework.pdf # Full measurement framework (funnel, benchmarks, gaps)
 ├── 04_sql/
 │   ├── feature_engineering.sql     # 8 SQL views
 │   └── run_sql.py                  # Execute SQL via SQLite, export Power BI CSVs
 ├── 05_powerbi/
-│   ├── dashboard_spec.md           # Page-by-page layout, DAX measures, visual specs
-│   └── GlowMetric_Dashboard.pbix
+│   └── GlowMetric_Dashboard.pbix    # Page-by-page layout, DAX measures, visual specs
 ├── 06_readout/
-│   └── executive_readout.md        # 4-section QBR narrative with real numbers
+│   └── executive_readout        # 4-section QBR narrative with real numbers
 ├── screenshots/
 │   ├── page1_overview.png
 │   ├── page2_scorecard.png
