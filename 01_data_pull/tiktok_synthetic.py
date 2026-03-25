@@ -1,28 +1,11 @@
-"""
-HardScope Challenge — M1b: TikTok Data Generator
-Brand: GlowMetric (fictional beauty/skincare brand)
 
-TikTok Research API requires approved access (weeks).
-This script generates a realistic, statistically-grounded TikTok dataset
-using public benchmark data for the beauty category.
-
-Sources used for benchmarks:
-  - Influencer Marketing Hub 2024 TikTok Benchmarks
-  - CreatorIQ 2024 Beauty Category Report
-  - Social Insider TikTok Engagement Benchmarks Q4 2024
-
-Document this clearly in your README — the evaluator will respect this approach
-more than pretending you have API access you don't.
-"""
 
 import pandas as pd
 import numpy as np
 import os
 from datetime import datetime, timedelta
 
-# ─────────────────────────────────────────────
 # BENCHMARK PARAMETERS (sourced from public reports)
-# ─────────────────────────────────────────────
 # Beauty category TikTok benchmarks:
 #   Median ER: 5.8% (beauty > avg platform ER of 4.1%)
 #   Median views per video: varies heavily by follower tier
