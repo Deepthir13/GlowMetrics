@@ -1,0 +1,7 @@
+platform,campaign_phase,video_count,avg_er,avg_reach_ratio,total_views
+TikTok,1_Pre-Campaign,22,0.09741,0.5338,17893613
+TikTok,2_Mid-Campaign,85,0.09012,0.6333,82421442
+TikTok,3_Late-Campaign,43,0.09907,0.6283,31688512
+YouTube,1_Pre-Campaign,26,0.00802,0.5283,32825174
+YouTube,2_Mid-Campaign,1,0.0002,0.0024,7071
+YouTube,3_Late-Campaign,111,0.00352,0.0821,74557761

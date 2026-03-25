@@ -1,0 +1,73 @@
+creator_handle,platform,period_month,current_er,prior_er,er_pct_change,alert_status
+GlitterAndLazers,YouTube,2021-11,0.00442,0.14788,-97.0,Declining ER (>20% drop)
+ShaaanXO,YouTube,2021-06,0.00105,0.00785,-86.6,Declining ER (>20% drop)
+NikkieTutorials,YouTube,2025-09,0.00635,0.03497,-81.8,Declining ER (>20% drop)
+ShaaanXO,YouTube,2025-02,0.0002,0.00107,-81.3,Declining ER (>20% drop)
+GlitterAndLazers,YouTube,2026-03,0.00012,0.00053,-78.2,Declining ER (>20% drop)
+GlitterAndLazers,YouTube,2025-04,0.00053,0.00219,-75.8,Declining ER (>20% drop)
+JamieGenevieve,YouTube,2025-05,0.00135,0.00515,-73.8,Declining ER (>20% drop)
+JamieGenevieve,YouTube,2026-03,0.00093,0.00352,-73.6,Declining ER (>20% drop)
+WayneGoss,YouTube,2015-07,0.00128,0.00437,-70.7,Declining ER (>20% drop)
+AlexandrasGirly,YouTube,2026-03,0.00108,0.00353,-69.4,Declining ER (>20% drop)
+CassieTrayna,YouTube,2026-03,0.00508,0.01187,-57.2,Declining ER (>20% drop)
+ShaaanXO,YouTube,2026-03,0.00021,0.00049,-57.1,Declining ER (>20% drop)
+WayneGoss,YouTube,2023-12,0.00031,0.00069,-55.1,Declining ER (>20% drop)
+Hyram,YouTube,2026-01,0.00027,0.0006,-54.7,Declining ER (>20% drop)
+GlitterAndLazers,YouTube,2024-02,0.00219,0.00442,-50.5,Declining ER (>20% drop)
+KathleenLights,YouTube,2025-11,0.00142,0.00281,-49.4,Declining ER (>20% drop)
+JamieGenevieve,YouTube,2025-09,0.00232,0.00454,-48.8,Declining ER (>20% drop)
+WayneGoss,YouTube,2022-02,0.00069,0.00128,-46.1,Declining ER (>20% drop)
+NikkieTutorials,YouTube,2026-02,0.00782,0.01146,-31.8,Declining ER (>20% drop)
+ShaaanXO,TikTok,2025-02,0.09523,0.13697,-30.5,Declining ER (>20% drop)
+NikkieTutorials,YouTube,2025-10,0.00448,0.00635,-29.4,Declining ER (>20% drop)
+KathleenLights,YouTube,2024-08,0.00141,0.0019,-25.8,Declining ER (>20% drop)
+JamieGenevieve,TikTok,2025-02,0.07641,0.10208,-25.1,Declining ER (>20% drop)
+KathleenLights,YouTube,2024-10,0.00107,0.0014,-23.8,Declining ER (>20% drop)
+WayneGoss,TikTok,2025-03,0.04918,0.06458,-23.8,Declining ER (>20% drop)
+JamieGenevieve,YouTube,2026-01,0.00245,0.00319,-23.2,Declining ER (>20% drop)
+KathleenLights,YouTube,2026-03,0.00115,0.00142,-19.0,Slight ER Decline
+NikkieTutorials,TikTok,2025-02,0.05577,0.066,-15.5,Slight ER Decline
+RachelHigginson,TikTok,2025-03,0.10544,0.12357,-14.7,Slight ER Decline
+NikkieTutorials,YouTube,2026-01,0.01146,0.01331,-13.9,Slight ER Decline
+LisaHeldmann,TikTok,2025-03,0.14365,0.16285,-11.8,Slight ER Decline
+DrDrayzday,TikTok,2025-02,0.05397,0.06006,-10.1,Slight ER Decline
+JamieGenevieve,YouTube,2025-07,0.00352,0.00381,-7.6,Stable
+HyramYT,TikTok,2025-03,0.06699,0.0716,-6.4,Stable
+KathleenLights,YouTube,2025-04,0.00101,0.00107,-5.6,Stable
+JamieGenevieve,YouTube,2025-01,0.00338,0.00356,-5.1,Stable
+GlitterandLazers,TikTok,2025-03,0.09399,0.09614,-2.2,Stable
+WayneGoss,TikTok,2025-02,0.06458,0.06595,-2.1,Stable
+KathleenLights,YouTube,2024-09,0.0014,0.00141,-0.4,Stable
+NikkieTutorials,TikTok,2025-03,0.05554,0.05577,-0.4,Stable
+HouseOfCB,TikTok,2025-02,0.1363,0.13604,0.2,Stable
+ShaaanXO,YouTube,2021-03,0.00785,0.00783,0.3,Stable
+ShaaanXO,YouTube,2022-03,0.00107,0.00105,1.9,Stable
+HyramYT,TikTok,2025-02,0.0716,0.06945,3.1,Stable
+WayneGoss,YouTube,2025-04,0.00032,0.00031,3.2,Stable
+JamieGenevieve,TikTok,2025-03,0.081,0.07641,6.0,Stable
+Hyram,YouTube,2026-02,0.00029,0.00027,7.4,Stable
+ShaaanXO,YouTube,2014-05,0.00369,0.0033,12.0,Stable
+ShaaanXO,TikTok,2025-03,0.1069,0.09523,12.2,Stable
+GlitterandLazers,TikTok,2025-02,0.09614,0.08497,13.1,Stable
+HouseOfCB,TikTok,2025-03,0.15708,0.1363,15.2,Stable
+JamieGenevieve,YouTube,2025-12,0.00319,0.00277,15.2,Stable
+NikkieTutorials,YouTube,2026-03,0.00901,0.00782,15.2,Stable
+LisaHeldmann,TikTok,2025-02,0.16285,0.13843,17.6,Stable
+RachelHigginson,TikTok,2025-02,0.12357,0.10435,18.4,Stable
+JamieGenevieve,YouTube,2025-11,0.00277,0.00232,19.1,Stable
+AlexandrasGirly,YouTube,2026-01,0.00138,0.00114,21.1,Stable
+JamieGenevieve,YouTube,2025-08,0.00454,0.00352,29.0,Stable
+DrDrayzday,TikTok,2025-03,0.07492,0.05397,38.8,Stable
+JamieGenevieve,YouTube,2026-02,0.00352,0.00245,43.7,Stable
+JamieGenevieve,YouTube,2025-03,0.00515,0.00338,52.4,Stable
+KathleenLights,YouTube,2024-05,0.0019,0.0012,58.8,Stable
+WayneGoss,YouTube,2026-03,0.00053,0.00032,64.1,Stable
+Hyram,YouTube,2026-03,0.0005,0.00029,72.4,Stable
+ShaaanXO,YouTube,2017-06,0.00783,0.00369,112.2,Stable
+Hyram,YouTube,2025-12,0.0006,0.00026,127.5,Stable
+ShaaanXO,YouTube,2025-05,0.00049,0.0002,145.0,Stable
+AlexandrasGirly,YouTube,2026-02,0.00353,0.00138,156.4,Stable
+KathleenLights,YouTube,2025-05,0.00281,0.00101,177.7,Stable
+JamieGenevieve,YouTube,2025-06,0.00381,0.00135,182.2,Stable
+NikkieTutorials,YouTube,2025-12,0.01331,0.00448,197.0,Stable
+WayneGoss,YouTube,2015-02,0.00437,0.00049,791.8,Stable

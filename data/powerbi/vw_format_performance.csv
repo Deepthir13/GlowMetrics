@@ -1,0 +1,14 @@
+platform,content_format,funnel_stage,video_count,avg_er,avg_reach_ratio,avg_wti,avg_cpe,pct_strong_er
+TikTok,Trending Sound,Engagement,20,0.10849,0.662,1.442,0.0231,80.0
+TikTok,Skincare Routine,Awareness,34,0.09834,0.6789,1.13,0.023,79.4
+TikTok,Tutorial,Consideration,22,0.09094,0.5721,1.228,0.027,72.7
+TikTok,GRWM,Awareness,29,0.08964,0.5868,1.01,0.0239,79.3
+TikTok,Duet/Stitch,Engagement,13,0.08942,0.5039,0.853,0.0284,92.3
+TikTok,Haul,Engagement,13,0.08775,0.7261,1.253,0.0228,84.6
+TikTok,Product Review,Consideration,19,0.08669,0.5619,0.946,0.0237,68.4
+YouTube,Short,Awareness,22,0.00793,0.617,0.019,0.8133,4.5
+YouTube,Tutorial,Consideration,8,0.00442,0.0861,0.293,0.2228,0.0
+YouTube,Vlog/Other,Awareness,81,0.00423,0.0936,0.232,0.6648,2.5
+YouTube,Routine,Awareness,19,0.00217,0.0463,0.32,0.2148,0.0
+YouTube,Review,Consideration,6,0.00085,0.0176,0.122,0.2674,0.0
+YouTube,Test/Rank,Consideration,2,0.00065,0.0143,0.114,0.3388,0.0
