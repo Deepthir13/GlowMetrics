@@ -8,7 +8,7 @@ import pandas as pd
 from googleapiclient.discovery import build
 from datetime import datetime
 
-API_KEY = "AIzaSyBbiGrNbUWbu31SetoNzmtbGSVjARhQ-gU"
+API_KEY = "Add your own Google -> Yotube data v3 API Key"
 
 # Verified handles — will resolve IDs dynamically
 CREATORS = [
