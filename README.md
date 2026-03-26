@@ -176,7 +176,7 @@ hardscope/
 ├── 05_powerbi/
 │   └── GlowMetric_Dashboard.pbix
 ├── 06_readout/
-│   └── executive_readout.md        # 4-section QBR narrative with real numbers
+│   └── generate_readout_numbers.py        # generates readout numbers
 ├── screenshots/
 │   ├── page1_overview.png
 │   ├── page2_scorecard.png
